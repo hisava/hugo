@@ -1,5 +1,7 @@
 baseURL = 'https://hisava.github.io/hugo'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
-theme = 'anatole'
+# theme = 'anatole'
+theme = 'ananke'
+
 
