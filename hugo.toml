@@ -1,7 +1,7 @@
 baseURL = 'https://hisava.github.io/hugo'
 # languageCode = 'en-us'
 languageCode = 'ru-ru'
-title = 'hugo-ananke-theme'
+title = 'ananke-theme'
 # theme = 'anatole'
 theme = 'ananke'
 
