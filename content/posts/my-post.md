@@ -26,7 +26,7 @@ draft: false
 
 *в моём примере ниже мой сайт называется hugo*
 
-`hugo new site   ` *hugo*
+hugo new site **hugo**
 
     cd hugo
     git init
