@@ -48,7 +48,7 @@ hugo new site **hugo**
 
  `https://github.com/alex1vere2/hugo.git`
 
-Поэтому **изменяем файл hugo.toml** в папке сайта
++ **Изменяем файл hugo.toml** в папке сайта
 
 в первой строчке baseURL пишем адрес сайта в виде
 
