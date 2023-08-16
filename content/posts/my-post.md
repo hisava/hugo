@@ -63,17 +63,17 @@ baseURL = 'https://ваше_имя.github.io/hugo'
 
 + выдаём команды
 
-    git config --global user.name ваше_имя
+    `git config --global user.name ваше_имя`
 
-    git config --global user.email ваша_почта
+    `git config --global user.email ваша_почта`
 
-    git add .
+    `git add .`
 
-    git commit -m initial
+    `git commit -m initial`
 
     git remote add origin `тут_ваша_ссылка`
 
-    git push -u origin main
+    `git push -u origin main`
 
 + заходим на https://github.com
 
