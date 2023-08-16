@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ananke-theme</title>
+    <link>https://hisava.github.io/hugo/</link>
+    <description>Recent content on ananke-theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru-ru</language>
+    <lastBuildDate>Mon, 14 Aug 2023 13:51:17 +0300</lastBuildDate><atom:link href="https://hisava.github.io/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>15.08.2023 ohc</title>
+      <link>https://hisava.github.io/hugo/posts/info/</link>
+      <pubDate>Mon, 14 Aug 2023 13:51:17 +0300</pubDate>
+      
+      <guid>https://hisava.github.io/hugo/posts/info/</guid>
+      <description>Сегодня настраивали работу с сетью сладкая жизнь плюс
+Зашли в реализацию - счета-фактуры
+Пометили документты по ALT+F1
+Нажали CTRL+F10 выбрали ЭКСПОРТ снизу предпоследний пункт АШАН
+Далее у Валеры написан скрипт, который ищет файлы в папке OUT, в нашем случае это INVOICE
+и этот скрипт отправляет эти файлы на ftp контура. Но контур все наши файлы удалил, потому что мы им не заплатили
+ORDERS Дополнительно была не решена проблема с заказами. Заказы должны поступать, мы должны эти заказы принимать</description>
+    </item>
+    
+  </channel>
+</rss>
