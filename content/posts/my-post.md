@@ -71,7 +71,7 @@ baseURL = 'https://ваше_имя.github.io/hugo'
 
     git commit -m initial
 
-    git remote add origin _тут_ваша_ссылка
+    git remote add origin `тут_ваша_ссылка`
 
     git push -u origin main
 
