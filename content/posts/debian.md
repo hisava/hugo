@@ -124,3 +124,8 @@ Finish the installation - Continue
 
 [Установка гостевых дополнений](https://github.com/veretennikovalexey/bookworm)
 
+## 16
+
+Открываем терминал CTRL+ALT+T и вводим команду
+
+`timedatectl set-timezone Europe/Moscow`
