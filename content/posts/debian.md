@@ -119,3 +119,8 @@ Device for boot
 ## 14
 
 Finish the installation - Continue 
+
+## 15
+
+[Установка гостевых дополнений](https://github.com/veretennikovalexey/bookworm)
+
