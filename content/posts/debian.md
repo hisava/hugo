@@ -108,4 +108,14 @@ Continue
 
 ## 12
 
-Всё
+Install the GRUB - Continue 
+
+## 13
+
+Device for boot
+
+/dev/sda - Continue  
+
+## 14
+
+Finish the installation - Continue 
