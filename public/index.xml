@@ -6,7 +6,32 @@
     <description>Recent content on ananke-theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-ru</language>
-    <lastBuildDate>Mon, 14 Aug 2023 13:51:17 +0300</lastBuildDate><atom:link href="https://hisava.github.io/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 17 Aug 2023 09:59:38 +0300</lastBuildDate><atom:link href="https://hisava.github.io/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>debian</title>
+      <link>https://hisava.github.io/hugo/posts/debian/</link>
+      <pubDate>Thu, 17 Aug 2023 09:59:38 +0300</pubDate>
+      
+      <guid>https://hisava.github.io/hugo/posts/debian/</guid>
+      <description>debian</description>
+    </item>
+    
+    <item>
+      <title>hugo</title>
+      <link>https://hisava.github.io/hugo/posts/my-post/</link>
+      <pubDate>Wed, 16 Aug 2023 10:19:21 +0300</pubDate>
+      
+      <guid>https://hisava.github.io/hugo/posts/my-post/</guid>
+      <description>hugo это быстрый генератор статических сайтов
+Я снял видео о том, как бесплатно
+( используя hugo ) развернуть сайт
+Для этого вам потребуется
+установить git
+зарегистрироваться на сайте https://github.com
+1. скачиваем hugo 2. Создаём папку C:\HUGO и туда переносим то, что скачали 3. Настраиваем пути PATH ( смотри видео как ) 4. Выдаём команды в любой папке с именем сайта в моём примере ниже мой сайт называется hugo
+hugo new site hugo</description>
+    </item>
+    
     <item>
       <title>15.08.2023 ohc</title>
       <link>https://hisava.github.io/hugo/posts/info/</link>
